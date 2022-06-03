@@ -24,9 +24,6 @@ public class Ticket implements Comparable<Ticket> {
         return id;
     }
 
-    public int getPrice() {
-        return price;
-    }
 
     public String getDepartureAirport() {
         return departureAirport;
